@@ -3,6 +3,9 @@
 - [User Experience](#user-experience)
   * [Initial Discussion](#initial-discussion)
   * [User Stories](#user-stories)
+- [Design](#design)
+  * [Wireframes](#wireframes)
+
 # User Experience
 
 ## Initial Discussion
@@ -38,3 +41,13 @@ Here the user can find our current menu, our contact information and is able to 
 
 ### Frequent Visitor Goals
 * I want to make a new reservation
+
+---
+
+# Design
+
+## Wireframes
+These wireframes were created using [Balsamiq Wireframes](https://balsamiq.com/wireframes/)
+* [Computer screen Wireframe](https://github.com/Jdzelhorst/Project_4/blob/main/assets/wireframes/Computerscreen%20width.png)
+* [Tablet screen Wireframe](https://github.com/Jdzelhorst/Hacks4Life/blob/main/wireframes/hacks4life-tablet-screen.png)
+* [Phone screen Wireframe](https://github.com/Jdzelhorst/Project_4/blob/main/assets/wireframes/Tablet%20screen%20width.png)
